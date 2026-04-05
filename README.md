@@ -1,10 +1,10 @@
 # Fatemah Mirza
 
-**B.S. Mathematics of Computation, UCLA** — GPA 3.54, expected Spring 2027
+**B.S. Mathematics of Computation, UCLA** | GPA 3.54 | expected Spring 2027
 
 Non-traditional student. Founder turned researcher. I care about whether models work outside of controlled environments.
 
-Current focus: computational modeling applied to systems with structural inefficiencies — biological, urban, and social.
+Current focus: computational modeling applied to systems with structural inefficiencies: biological and supply chain.
 
 ---
 
@@ -28,20 +28,19 @@ Current focus: computational modeling applied to systems with structural ineffic
 - Methods: graph theory, stochastic modeling, network throughput maximization
 - Framing dedicated bus lanes and freeway routing as a constrained optimization problem
 
-**AI-Driven Interview Coaching Platform** `published`
-- Co-authored paper on universally accessible career coaching via RAG-based AI
-- Presented at SoCal and National Conferences of Undergraduate Research
-- Won 2 TCVN pitch competitions
-- Underlying app in development at Eli Home and Casa Teresa shelters
-
 **[Polyculture Garden Resilience Under Drought](https://github.com/fatemah-m/drought-stricken-plants)** 
 - Mathematical model comparing monoculture vs. polyculture garden resilience
 - Methods: Lotka-Volterra competition, Michaelis-Menten water stress, seasonal aphid predation cycle
 - Ran three rainfall scenarios using Los Angeles historical data (2020-2024)
 
-**Directed Reading** — logic, statistics, decision theory, ML
+**Directed Reading** ([notes here](https://github.com/fatemah-m/directed-reading)): logic, statistics, decision theory, ML
 Independent reading group covering stochastic controls, mean-field RL, world models, optimization, and network theory.
-→ [reading notes](https://github.com/fatemah-m/directed-reading)
+
+**AI-Driven Interview Coaching Platform** `published, 2023`
+- Co-authored paper on universally accessible career coaching via RAG-based AI
+- Presented at SoCal and National Conferences of Undergraduate Research
+- Won 2 TCVN pitch competitions
+- Underlying app in development at Eli Home and Casa Teresa shelters
 
 ---
 
@@ -51,17 +50,27 @@ Independent reading group covering stochastic controls, mean-field RL, world mod
 Streamlit app that generates tailored resume, cover letter, and outreach email in parallel via the Claude API. Includes Hunter.io email finder, salary estimation, and per-interviewer coaching notes from LinkedIn bios.
 
 **[Hurricane Simulation Dashboard](https://github.com/myceey69/HurricaneSimulationDashboard)**
-Hackathon project. Real-time response dashboard using image/video generation and the Google Maps API.
+14-hour hackathon project. Real-time response dashboard using image/video generation and the Google Maps API.
 
 ---
 
 ## Coursework
 
-*Current:* Applied Numerical Methods, Algorithms, Intro to Collaborative Learning (Math)
+**Pure Mathematics**
+Real Analysis (Honors), Abstract Algebra (Honors)
 
-*Completed:* Real Analysis (Honors), Abstract Algebra (Honors), Ordinary Differential Equations, Mathematical Modeling, Probability and Statistics I and II, Discrete Structures, Linear Algebra (Honors), Programming with R, Advanced Programming
+**Applied Mathematics**
+Ordinary Differential Equations, Mathematical Modeling, Mathematical Statistics
 
-*Earlier UCLA (2010-2012):* Multivariable Calculus, Differential Equations, Linear Algebra, Physics (Mechanics, Oscillations), Statistics, Chemistry sequence
+**Computational Sciences**
+Applied Numerical Methods, Discrete Structures, Algorithm Design and Analysis, Advanced Programming
+
+**Engineering**
+Mechanics, Oscillations and Waves, Environmental Engineering, Fluid Mechanics
+
+**Applied Sciences**
+Cognitive Science, Evolutionary Psychology, Chemistry, Chemical Oceanography,
+Climatology, Life Sciences, Evolutionary Biology
 
 ---
 
@@ -73,7 +82,7 @@ Hackathon project. Real-time response dashboard using image/video generation and
 
 ## Other
 
-- Public speaking: CA State Championships (debate, 7th in California), TEDxPurdue, guest lecturer at CSUN, CSUF, UCLA
+- Public speaking: CA State Championships (Original Advocacy, 7th in California), TEDxPurdue, guest lecturer at CSUN, CSUF, UCLA
 - ACM AI, student participant
 - Languages: Hindi and Urdu (fluent), Spanish and Malayalam (conversational), Arabic and Punjabi (studied)
 
