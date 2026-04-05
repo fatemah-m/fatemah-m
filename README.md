@@ -57,18 +57,23 @@ Streamlit app that generates tailored resume, cover letter, and outreach email i
 ## Coursework
 
 **Pure Mathematics**
+
 Real Analysis (Honors), Abstract Algebra (Honors)
 
 **Applied Mathematics**
+
 Ordinary Differential Equations, Mathematical Modeling, Mathematical Statistics
 
 **Computational Sciences**
+
 Applied Numerical Methods, Discrete Structures, Algorithm Design and Analysis, Advanced Programming
 
 **Engineering**
+
 Mechanics, Oscillations and Waves, Environmental Engineering, Fluid Mechanics
 
 **Applied Sciences**
+
 Cognitive Science, Evolutionary Psychology, Chemistry, Chemical Oceanography,
 Climatology, Life Sciences, Evolutionary Biology
 
