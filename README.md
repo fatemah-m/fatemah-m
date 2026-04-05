@@ -34,7 +34,7 @@ Current focus: computational modeling applied to systems with structural ineffic
 - Won 2 TCVN pitch competitions
 - Underlying app in development at Eli Home and Casa Teresa shelters
 
-**Polyculture Garden Resilience Under Drought** `UCLA Math 142, 2026`
+**[Polyculture Garden Resilience Under Drought](https://github.com/fatemah-m/drought-stricken-plants)** 
 - Mathematical model comparing monoculture vs. polyculture garden resilience
 - Methods: Lotka-Volterra competition, Michaelis-Menten water stress, seasonal aphid predation cycle
 - Ran three rainfall scenarios using Los Angeles historical data (2020-2024)
