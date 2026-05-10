@@ -10,12 +10,13 @@ Current focus: computational modeling applied to systems with structural ineffic
 
 ## Research and Reading
 
-**E. coli Detection via DIY LAMP on a Chip** `in progress`
-- Building an open-source, low-cost microfluidic chip for pathogen detection in water
+**[E. coli Detection via DIY LAMP on a Chip](https://github.com/fatemah-m/LAMP-Fluid-Dynamics-Code)**
+- Won third-place at the UCLA In-Transcription Annual Biohackathon
+- Built an open-source, low-cost microfluidic chip for pathogen detection in water
 - Target: developing regions where lab-grade PCR is inaccessible
 - Methods: LAMP amplification, soft photolithography, colorimetric ML readout
 - Goal: hackathon submission + journal publication
-- Role: project management, ML integration, supply chain and commercialization analysis
+- Role: project management, CFD analysis, supply chain and commercialization analysis, paper writing, presentation design, presentation script writing and speaking coaching
 
 **Tumor Proximity and Metastasis Risk** `in progress`
 - ML-based tumor segmentation on MRI data combined with fluid dynamics modeling
