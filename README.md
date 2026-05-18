@@ -41,7 +41,7 @@ Independent reading group covering stochastic controls, mean-field RL, world mod
 - Co-authored paper on universally accessible career coaching via RAG-based AI
 - Presented at SoCal and National Conferences of Undergraduate Research
 - Won 2 TCVN pitch competitions
-- Underlying app in development at Eli Home and Casa Teresa shelters
+- App currently in use by CareerTuners team
 
 ---
 
